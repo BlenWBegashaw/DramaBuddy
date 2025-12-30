@@ -4,7 +4,7 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 
 
-**Drama Buddy** is a feature-rich Flutter application built for Korean drama fans. It combines a personal watch-list manager with a discovery engine powered by the TMDb API and a curated TikTok social feed.
+**Drama Buddy** is a feature-rich Flutter application built for Korean drama fans. It combines a personal watch-list manager with a discovery engine powered by an API and a curated TikTok social feed.
 
 ---
 
