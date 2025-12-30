@@ -58,7 +58,7 @@
 * **Framework:** [Flutter](https://flutter.dev/)
 * **Language:** [Dart](https://dart.dev/)
 * **Database/Storage:** SharedPreferences (Local)
-* **External APIs:** TMDb (The Movie Database)
+* **External APIs:** The Movie Database
 * **Plugins:** 
   * `webview_flutter` for TikTok content.
   * `url_launcher` for external links.
