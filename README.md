@@ -123,7 +123,7 @@ Presentation Layer reflects changes
 
 ### 4️⃣ Notes
 
-- **Private Repo Version:** Full TMDb API and TikTok feed logic.  
+- **Private Repo Version:** Full API and TikTok feed logic.  
 - **Public Portfolio Version:** Only UI demos, screenshots, and architecture explanation. Sensitive code and API keys are hidden.
 
 ---
@@ -147,8 +147,9 @@ lib/
 
 ## 🌟 Acknowledgments
 
-- Korean Drama Fans & Creators
-- The Flutter Community
+- **Korean Drama Fans & Creators:** Thank you to all the writers, directors, actors, and creators of the incredible dramas that inspired this app. Special shoutouts to the shows I’ve watched and loved, including *2521*, *Twinkling Watermelon*, *Moon lovers scaralet*, and many more. Your stories and performances are the heart of this tracker.  
+- **The Flutter Community:** For the amazing widgets, packages, and support that made building this cross-platform app a joy.  
+- **TikTok Kdrama Edit Creators:** For making K-Drama content engaging, fun, and shareable for fans worldwide.  
 
 ---
 
