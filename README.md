@@ -2,8 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![TMDb](https://img.shields.io/badge/TMDb-01d277?style=for-the-badge&logo=the-movie-database&logoColor=white)](https://www.themoviedb.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensource)](https://opensource.org/licenses/MIT)
+
 
 **Drama Buddy** is a feature-rich Flutter application built for Korean drama fans. It combines a personal watch-list manager with a discovery engine powered by the TMDb API and a curated TikTok social feed.
 
@@ -14,7 +13,6 @@
 - [Demo](#-demo)
 - [Tech Stack](#-tech-stack)
 - [App Architecture](#-app-architecture)
-- [Installation](#-installation)
 - [Project Structure](#-project-structure)
 - [Future Roadmap](#-future-roadmap)
 - [Acknowledgments](#-acknowledgments)
